@@ -1,0 +1,14 @@
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikafy/bin/Debug/net8.0/Patikafy
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikafy/bin/Debug/net8.0/Patikafy.deps.json
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikafy/bin/Debug/net8.0/Patikafy.runtimeconfig.json
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikafy/bin/Debug/net8.0/Patikafy.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikafy/bin/Debug/net8.0/Patikafy.pdb
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikafy/obj/Debug/net8.0/Patikafy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikafy/obj/Debug/net8.0/Patikafy.AssemblyInfoInputs.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikafy/obj/Debug/net8.0/Patikafy.AssemblyInfo.cs
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikafy/obj/Debug/net8.0/Patikafy.csproj.CoreCompileInputs.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikafy/obj/Debug/net8.0/Patikafy.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikafy/obj/Debug/net8.0/refint/Patikafy.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikafy/obj/Debug/net8.0/Patikafy.pdb
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikafy/obj/Debug/net8.0/Patikafy.genruntimeconfig.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Patikafy/obj/Debug/net8.0/ref/Patikafy.dll
